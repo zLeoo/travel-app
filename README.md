@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center">
+    <img alt="Screenshot" title="Screenshot" src="https://raw.githubusercontent.com/zLeoo/travel-app/main/public/Screenshot_2.png" />
+</h1>
 
-First, run the development server:
+<h2 align="center"> 
+	  Travel App
+</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 💻 Sobre o projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Travel App](https://travel-app-ivory.vercel.app/) é uma aplicação que lista lugares incríveis no mundo todo.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+O objetivo desse app é mostrar no mapa os lugares de acordo com as coordenadas. Os locais podem ser adicionados através do GraphCMS. 
+A aplicação faz parte do projeto final do curso [Aprenda NextJS, GraphQL e Leaflet na prática](https://www.udemy.com/course/aprenda-nextjs-na-pratica/), no qual pude ter contato com novos conceitos e tecnologias como Git Hooks, Testes, Leaflet, GraphQL, Headless CMS, NextJS e muito mais. 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## ⚙️ Funcionalidades
 
-## Learn More
+- [x] Mostrar todas as coordernadas recebidas do GraphCMS.
+- [x] Criar página para cada ponto no mapa.
+- [x] Criar página informaiva.
+- [x] Adicionar pontos através do GraphCMS.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tecnologias
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Deploy on Vercel
+-   **[React](https://reactjs.org/)**
+-   **[Next](https://nextjs.org/)**  
+-   **[Typescript](https://www.typescriptlang.org/docs/)**
+-   **[Styled Components](https://styled-components.com/)**
+-   **[Git](https://git-scm.com/)**  
+-   **[Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)**
+-   **[Eslint e Prettier](https://eslint.org/)**
+-   **[GraphQL](https://graphql.org/)**
+-   **[Leaflet](https://leafletjs.com/)**
+-   **[GraphCMS](https://graphcms.com/)**
+-   **[Jest](https://jestjs.io/)**
+-   **[React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🤵 Autor
+
+<a href="https://www.linkedin.com/in/leowebdev/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34231899?s=400&u=ca4f73f5b79d52cd6ff00640d7ce71cfe3730911&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Leonardo dos Santos Zamboni</b></sub></a> <a href="https://www.linkedin.com/in/leowebdev/" title="Leonardo dos Santos Zamboni">🚀</a>
+ <br />
+
+---
