@@ -21,7 +21,7 @@ A aplicação faz parte do projeto final do curso [Aprenda NextJS, GraphQL e Lea
 
 - [x] Mostrar todas as coordernadas recebidas do GraphCMS.
 - [x] Criar página para cada ponto no mapa.
-- [x] Criar página informaiva.
+- [x] Criar página informativa.
 - [x] Adicionar pontos através do GraphCMS.
 
 ---
