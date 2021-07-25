@@ -11,7 +11,8 @@
 
 [Travel App](https://travel-app-ivory.vercel.app/) é uma aplicação que lista lugares incríveis no mundo todo.
 
-O objetivo desse app é mostrar no mapa os lugares de acordo com as coordenadas. Os locais podem ser adicionados através do GraphCMS. 
+O objetivo desse app é mostrar no mapa os lugares de acordo com as suas coordenadas. Os locais podem ser adicionados através do GraphCMS. 
+
 A aplicação faz parte do projeto final do curso [Aprenda NextJS, GraphQL e Leaflet na prática](https://www.udemy.com/course/aprenda-nextjs-na-pratica/), no qual pude ter contato com novos conceitos e tecnologias como Git Hooks, Testes, Leaflet, GraphQL, Headless CMS, NextJS e muito mais. 
 
 ---
